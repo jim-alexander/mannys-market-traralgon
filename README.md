@@ -1,4 +1,4 @@
-# Mannys Market Site
+# 🍎 Mannys Market Traralgon
 
 Single page app using react, nothing crazy.
 
